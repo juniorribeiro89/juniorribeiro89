@@ -9,7 +9,7 @@
 - 🌱 Ouça conselhos e aceite instruções,e acabará sendo sábio.
 - 💌 Quer entrar em contato comigo ? junior.rxdti@hotmai.com
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Vamos nos Conectar:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juniorribeiro89/" target="blank"><img align="center" src="https://i.pinimg.com/originals/a4/fd/8f/a4fd8fa494c08f980d70175109175614.png" alt="juniorribeiro89" height="30" width="30" /></a>
 </p>
@@ -19,7 +19,7 @@
 ---
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Minhas paixões:</h3>
 
 These are some of the technologies and tools with which I work and study:
 
