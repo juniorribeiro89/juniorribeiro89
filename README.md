@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
