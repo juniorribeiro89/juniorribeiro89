@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I´m Junior Ribeiro. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -8,6 +8,11 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/juniorribeiro89/" target="blank"><img align="center" src="https://i.pinimg.com/originals/a4/fd/8f/a4fd8fa494c08f980d70175109175614.png" alt="iriaguazzi" height="30" width="30" /></a>
+</p>
 
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/J_jr89) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/https://www.linkedin.com/in/juniorribeiro89//) 
