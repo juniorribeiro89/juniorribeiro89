@@ -2,7 +2,8 @@
 
 ---
 
-### Sobre mim:
+### Sobre mim: ![](https://komarev.com/ghpvc/?username=juniorribeiro89-github-juniorribeiro89&color=green)
+
 - 🎓 Gradunado em Sistemas P/ Internet - UNIESP
 - 🌱 Sempre em busca de conhecimento
 - 🎢 Número de visitantes do perfil:  
