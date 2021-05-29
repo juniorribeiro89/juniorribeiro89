@@ -9,6 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![image](https://user-images.githubusercontent.com/57049828/120054704-d70a1b80-c007-11eb-9f62-200c0e629e5d.png)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juniorribeiro89/" target="blank"><img align="center" src="https://i.pinimg.com/originals/a4/fd/8f/a4fd8fa494c08f980d70175109175614.png" alt="iriaguazzi" height="30" width="30" /></a>
