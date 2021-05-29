@@ -1,13 +1,11 @@
-### Hi there 👋, I´m Junior Ribeiro. 
+### Hi there 👋, I´m Junior Ribeiro. ![](https://komarev.com/ghpvc/?username=juniorribeiro89-github-juniorribeiro89&color=green)
 
 ---
 
-### Sobre mim: ![](https://komarev.com/ghpvc/?username=juniorribeiro89-github-juniorribeiro89&color=green)
+### Sobre mim: 
 
 - 🎓 Gradunado em Sistemas P/ Internet - UNIESP
-- 🌱 Sempre em busca de conhecimento
-- 🎢 Número de visitantes do perfil:  
-![](https://visitor-badge.glitch.me/badge?page_id=juniorribeiro89.juniorribeiro89)
+- 🌱 Sempre em busca de conhecimento.
 
 <br/>
 
