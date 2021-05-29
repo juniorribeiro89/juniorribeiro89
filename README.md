@@ -3,10 +3,10 @@
 ---
 
 ### Sobre mim:
-- 🎓 Bacharel em Sistemas de Informação - UNIESP
+- 🎓 Gradunado em Sistemas P/ Internet - UNIESP
 - 🌱 Sempre em busca de conhecimento
 - 🎢 Número de visitantes do perfil:  
-![](https://visitor-badge.glitch.me/badge?page_id=Jose-Robert.Jose-Robert)
+![](https://visitor-badge.glitch.me/badge?page_id=juniorribeiro89.juniorribeiro89)
 
 <br/>
 
