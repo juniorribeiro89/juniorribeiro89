@@ -19,7 +19,7 @@
 ---
 
 
-<h3 align="left">technologies:</h3>
+<h3 align="left">Technologies:</h3>
 
 These are some of the technologies and tools with which I work and study:
 
